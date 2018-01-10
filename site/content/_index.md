@@ -1,5 +1,5 @@
 ---
-title: AI everywhere advancing humankind
+title: AI everywhere advancing humankind - 2
 subtitle: >-
   Peltarion makes AI usable and affordable for all companies - not only the big
   and powerful
