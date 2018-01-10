@@ -1,6 +1,6 @@
 ---
-title: My future post
-date: 2018-01-11T13:07:42+01:00
+title: My future post updated
+date: 2018-01-11T12:07:42.000Z
 description: My intro
 ---
 Hello hello
