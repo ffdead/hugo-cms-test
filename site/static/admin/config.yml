@@ -12,7 +12,7 @@ collections: # A list of collections the CMS should be able to edit
     files:
       - name: "authors"
         label: "Authors"
-        file: "data/authors.yml"
+        file: "site/data/authors.yml"
         extension: "yml"
         fields:
           - label: "Author"
